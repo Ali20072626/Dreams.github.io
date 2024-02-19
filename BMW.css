@@ -1,0 +1,35 @@
+div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+img {
+    border: 20px solid black;
+    margin: 27px;
+    border-radius: 50px;
+    
+}
+
+body {
+    background-color: lightcyan;
+}
+
+button{
+    position: absolute;
+    left: 49%;
+    top: 4900px;
+
+    border: 2px solid black ;
+    color: black;
+    background-color: aqua;
+    border-style:dotted;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+
+}
+
